@@ -1,0 +1,30 @@
+C:\Users\alexe\Downloads\Всё что надо сдать 2 курс\ООП курсач\kursovaya\kursovaya\obj\Debug\kursovaya.csprojAssemblyReference.cache
+C:\Users\alexe\Downloads\Всё что надо сдать 2 курс\ООП курсач\kursovaya\kursovaya\obj\Debug\kursovaya.Form1.resources
+C:\Users\alexe\Downloads\Всё что надо сдать 2 курс\ООП курсач\kursovaya\kursovaya\obj\Debug\kursovaya.Properties.Resources.resources
+C:\Users\alexe\Downloads\Всё что надо сдать 2 курс\ООП курсач\kursovaya\kursovaya\obj\Debug\kursovaya.csproj.GenerateResource.cache
+C:\Users\alexe\Downloads\Всё что надо сдать 2 курс\ООП курсач\kursovaya\kursovaya\obj\Debug\kursovaya.csproj.CoreCompileInputs.cache
+C:\Users\alexe\Downloads\Всё что надо сдать 2 курс\ООП курсач\kursovaya\kursovaya\bin\Debug\kursovaya.exe.config
+C:\Users\alexe\Downloads\Всё что надо сдать 2 курс\ООП курсач\kursovaya\kursovaya\bin\Debug\kursovaya.exe
+C:\Users\alexe\Downloads\Всё что надо сдать 2 курс\ООП курсач\kursovaya\kursovaya\bin\Debug\kursovaya.pdb
+C:\Users\alexe\Downloads\Всё что надо сдать 2 курс\ООП курсач\kursovaya\kursovaya\obj\Debug\kursovaya.exe
+C:\Users\alexe\Downloads\Всё что надо сдать 2 курс\ООП курсач\kursovaya\kursovaya\obj\Debug\kursovaya.pdb
+D:\dev\csharp\kursovayaOOP\kursovaya\bin\Debug\kursovaya.exe.config
+D:\dev\csharp\kursovayaOOP\kursovaya\bin\Debug\kursovaya.exe
+D:\dev\csharp\kursovayaOOP\kursovaya\bin\Debug\kursovaya.pdb
+D:\dev\csharp\kursovayaOOP\kursovaya\obj\Debug\kursovaya.csprojAssemblyReference.cache
+D:\dev\csharp\kursovayaOOP\kursovaya\obj\Debug\kursovaya.Properties.Resources.resources
+D:\dev\csharp\kursovayaOOP\kursovaya\obj\Debug\kursovaya.csproj.GenerateResource.cache
+D:\dev\csharp\kursovayaOOP\kursovaya\obj\Debug\kursovaya.csproj.CoreCompileInputs.cache
+D:\dev\csharp\kursovayaOOP\kursovaya\obj\Debug\kursovaya.exe
+D:\dev\csharp\kursovayaOOP\kursovaya\obj\Debug\kursovaya.pdb
+D:\dev\csharp\kursovayaOOP\kursovaya\obj\Debug\kursovaya.ClassJournal.resources
+C:\Users\richa\Desktop\kursovaya_oop-master\kursovaya\bin\Debug\kursovaya.exe.config
+C:\Users\richa\Desktop\kursovaya_oop-master\kursovaya\bin\Debug\kursovaya.exe
+C:\Users\richa\Desktop\kursovaya_oop-master\kursovaya\bin\Debug\kursovaya.pdb
+C:\Users\richa\Desktop\kursovaya_oop-master\kursovaya\obj\Debug\kursovaya.csprojAssemblyReference.cache
+C:\Users\richa\Desktop\kursovaya_oop-master\kursovaya\obj\Debug\kursovaya.ClassJournal.resources
+C:\Users\richa\Desktop\kursovaya_oop-master\kursovaya\obj\Debug\kursovaya.Properties.Resources.resources
+C:\Users\richa\Desktop\kursovaya_oop-master\kursovaya\obj\Debug\kursovaya.csproj.GenerateResource.cache
+C:\Users\richa\Desktop\kursovaya_oop-master\kursovaya\obj\Debug\kursovaya.csproj.CoreCompileInputs.cache
+C:\Users\richa\Desktop\kursovaya_oop-master\kursovaya\obj\Debug\kursovaya.exe
+C:\Users\richa\Desktop\kursovaya_oop-master\kursovaya\obj\Debug\kursovaya.pdb
